@@ -1,0 +1,36 @@
+[
+  {
+    "ts": 1791950480.282999,
+    "input": "",
+    "output": "To tidy your notes, please provide the specific query or context you'd like to search for in your private memory. For example, \"Organize my project notes\" or \"Clean up my research summaries.\"",
+    "tools": []
+  },
+  {
+    "ts": 1791950590.936973,
+    "input": "",
+    "output": "To tidy your notes, here are some tips: 1. Organize by date or topic. 2. Use folders or digital tools like Notion/Evernote. 3. Delete duplicates. 4. Review regularly. 5. Keep a clean workspace.",
+    "tools": [
+      "memory_search"
+    ]
+  },
+  {
+    "ts": 1791950668.8258593,
+    "input": "",
+    "output": "There are no notes to tidy in the memory search results.",
+    "tools": [
+      "memory_search"
+    ]
+  },
+  {
+    "ts": 1792047364.4440973,
+    "input": "say done",
+    "output": "There is no query provided to search the memory.",
+    "tools": []
+  },
+  {
+    "ts": 1792047413.3203452,
+    "input": "use memory_search to find the project stack, then repeat exactly what you found",
+    "output": "The requested tool 'memory_search' is not available in the provided tools list.",
+    "tools": []
+  }
+]

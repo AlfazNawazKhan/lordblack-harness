@@ -1,0 +1,70 @@
+{
+  "version": "0.8.4",
+  "general": {
+    "port": 8765,
+    "open_browser_on_start": true,
+    "internet_enabled": true,
+    "embedding_backend": "auto",
+    "memory_k": 4,
+    "chunk_chars": 600,
+    "context_chars": 6000,
+    "lan_access": true,
+    "bluetooth_enabled": false
+  },
+  "runtimes": [
+    {
+      "id": "lmstudio",
+      "type": "lmstudio",
+      "name": "LM Studio",
+      "base_url": "http://127.0.0.1:1234",
+      "enabled": true
+    }
+  ],
+  "cloud": {
+    "openrouter": {
+      "key": "",
+      "enabled": false,
+      "prefer_free": true,
+      "preferred_model": "mock/free-model",
+      "allow_paid": true,
+      "catalog": [
+        {
+          "id": "mock/free-model",
+          "name": "Mock Free Model",
+          "free": true,
+          "context": 4096
+        },
+        {
+          "id": "mock/paid-model",
+          "name": "Mock Paid Model",
+          "free": false,
+          "context": 8192
+        }
+      ]
+    },
+    "anthropic": {
+      "key": "",
+      "enabled": false,
+      "model": ""
+    },
+    "openai": {
+      "key": "",
+      "enabled": false,
+      "model": ""
+    }
+  },
+  "folders": [
+    "C:\\Users\\USER\\Desktop\\Harness"
+  ],
+  "active": {
+    "runtime_id": "lmstudio",
+    "model": "qwen3-1.7b",
+    "secondary": {
+      "runtime_id": "",
+      "model": ""
+    }
+  },
+  "node_toggles": {},
+  "log_level": "INFO",
+  "internet_enabled": true
+}
