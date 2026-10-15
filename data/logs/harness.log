@@ -1,0 +1,484 @@
+14:08:04 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+14:31:55 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+14:32:07 [INFO] [memory] runtime embeddings unavailable (All connection attempts failed) — using keyword search
+14:32:07 [INFO] [memory] indexed 'Project Stack': 1 chunks, embeddings=no
+14:32:07 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+16:06:16 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+16:06:28 [INFO] [fs] folder granted: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\test-folder
+16:07:14 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+16:07:38 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+16:24:44 [INFO] [fs] applied edit to C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\test-folder\notes.txt
+16:25:09 [INFO] [agent] saved agent 'note-tidier'
+16:25:25 [INFO] [main] API key stored for anthropic (encrypted: dpapi)
+10:05:37 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+10:05:40 [INFO] [agent] saved agent 'p0-sched-test'
+10:06:40 [INFO] [agent] scheduled agent 'p0-sched-test' finished (0 chars)
+10:39:28 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+10:39:32 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+11:06:26 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:06:26 [INFO] [main] runtime added: lmstudio-4304 (lmstudio) at http://127.0.0.1:1234
+11:06:27 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:06:28 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:06:29 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:06:29 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:06 [INFO] [fs] folder granted: C:\Users\USER\Desktop\Harness
+11:07:18 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:19 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:30 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:31 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:31 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:32 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:47 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:07:48 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:08:28 [INFO] [trace] input | Input parsed 1 messages | model: nvidia/nemotron-3-nano-4b 
+11:08:28 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+11:09:04 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+11:15:39 [INFO] [trace] synthesize | Response generated 664 tokens (430575ms)
+11:15:39 [INFO] [trace] output | Answer delivered streaming complete 
+11:17:54 [INFO] [fs] folder revoked: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\test-folder
+11:25:04 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:25:05 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:25:06 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:25:07 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:25:22 [INFO] [trace] input | Input parsed 3 messages | model: qwen3-1.7b 
+11:25:23 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:25:25 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+11:25:25 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+11:25:25 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (2328ms)
+11:25:25 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+11:25:38 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+11:28:06 [INFO] [trace] synthesize | Response generated 568 tokens (161921ms)
+11:28:06 [INFO] [trace] output | Answer delivered streaming complete 
+11:29:14 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:29:15 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:29:16 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:29:17 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:29:31 [INFO] [main] API key stored for anthropic (encrypted: dpapi)
+11:30:18 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:19 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:20 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:21 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:21 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:28 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:29 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:31 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:32 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:34 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:40 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:41 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:41 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:42 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:43 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:44 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:45 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:46 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:47 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:47 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:48 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:49 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:50 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:51 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:52 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:30:52 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:31:10 [INFO] [main] config updated: runtimes
+11:31:11 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:31:12 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:31:13 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+11:31:14 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:28:34 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:28:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:28:39 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+09:28:39 [INFO] [main] embedding probe failed (Client error '400 Bad Request' for url 'http://127.0.0.1:1234/v1/embeddings'
+For more information ch); using keyword
+09:28:50 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:28:51 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:28:53 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:28:53 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:28:53 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:29:00 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:32:35 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:32:39 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+09:32:44 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:32:47 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+09:32:54 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:33:22 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:33:24 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:33:25 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+09:33:53 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:34:09 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:34:13 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+09:38:11 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:38:14 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+10:32:51 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+10:32:55 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+10:34:01 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+10:34:01 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+10:34:01 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (32ms)
+10:34:02 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.0 200 OK"
+10:34:17 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+10:34:18 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.0 200 OK"
+10:34:18 [INFO] [trace] synthesize | Response generated 29 tokens (844ms)
+10:34:18 [INFO] [trace] output | Answer delivered streaming complete 
+10:34:56 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:34:58 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:34:59 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:00 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:03 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:04 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:22 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:23 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:24 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:25 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:36 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:37 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:35:38 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:36:15 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+10:36:16 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:36:17 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.0 400 Bad Request"
+10:36:18 [INFO] [main] embedding probe failed (Client error '400 Bad Request' for url 'http://127.0.0.1:1234/v1/embeddings'
+For more information ch); using keyword
+10:36:33 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:36:34 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+10:36:51 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+10:36:51 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+10:36:51 [INFO] [trace] memory | Memory search 1 chunks: Project Stack 
+10:36:52 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.0 200 OK"
+10:36:52 [INFO] [trace] synthesize | Response generated 40 tokens (1113ms)
+10:36:52 [INFO] [trace] output | Answer delivered streaming complete 
+10:37:14 [INFO] [trace] input | Input parsed 3 messages | model: qwen3-1.7b 
+10:37:14 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+10:37:14 [INFO] [trace] memory | Memory search no strong matches 
+10:37:15 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.0 200 OK"
+10:37:15 [INFO] [trace] synthesize | Response generated 37 tokens (1120ms)
+10:37:15 [INFO] [trace] output | Answer delivered streaming complete 
+12:21:34 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+12:21:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+12:21:36 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.0 400 Bad Request"
+12:21:37 [INFO] [main] embedding probe failed (Client error '400 Bad Request' for url 'http://127.0.0.1:1234/v1/embeddings'
+For more information ch); using keyword
+12:21:52 [INFO] [trace] input | Input parsed 4 messages | model: qwen3-1.7b 
+12:21:52 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+12:21:52 [INFO] [trace] memory | Memory search no strong matches 
+12:21:53 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.0 200 OK"
+12:21:53 [INFO] [trace] synthesize | Response generated 32 tokens (818ms)
+12:21:53 [INFO] [trace] output | Answer delivered streaming complete 
+15:45:22 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+15:45:24 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.0 200 OK"
+15:45:26 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.0 400 Bad Request"
+15:45:26 [INFO] [main] embedding probe failed (Client error '400 Bad Request' for url 'http://127.0.0.1:1234/v1/embeddings'
+For more information ch); using keyword
+15:46:05 [INFO] [trace] input | Input parsed 5 messages | model: qwen3-1.7b 
+15:46:05 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+15:46:05 [INFO] [trace] memory | Memory search no strong matches 
+15:46:06 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.0 200 OK"
+15:46:06 [INFO] [trace] synthesize | Response generated 32 tokens (1586ms)
+15:46:06 [INFO] [trace] output | Answer delivered streaming complete 
+09:49:54 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:49:58 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+09:50:10 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+09:50:10 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+09:50:10 [INFO] [trace] memory | Memory search no strong matches 
+09:50:13 [INFO] [trace] output | Generation failed All connection attempts failed (3146ms)
+09:50:30 [INFO] [agent] saved agent 'config-testcanary'
+09:56:41 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+09:56:43 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+09:56:44 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+09:56:44 [INFO] [main] embedding probe failed (Client error '400 Bad Request' for url 'http://127.0.0.1:1234/v1/embeddings'
+For more information ch); using keyword
+09:56:58 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+09:56:58 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+09:56:58 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (1ms)
+09:57:12 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+09:57:38 [INFO] [trace] synthesize | Response generated 120 tokens (39717ms)
+09:57:38 [INFO] [trace] output | Answer delivered streaming complete 
+09:57:46 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+09:57:46 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+09:57:46 [INFO] [trace] memory | Memory search 1 chunks: Project Stack 
+09:57:46 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+09:57:47 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+09:57:52 [INFO] [trace] synthesize | Response generated 21 tokens (6004ms)
+09:57:52 [INFO] [trace] output | Answer delivered streaming complete 
+09:57:59 [INFO] [main] config updated: internet_enabled
+09:57:59 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+09:57:59 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+09:57:59 [INFO] [trace] memory | Memory search no strong matches 
+09:57:59 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+09:58:00 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+09:58:09 [INFO] [trace] synthesize | Response generated 32 tokens (9816ms)
+09:58:09 [INFO] [trace] output | Answer delivered streaming complete 
+09:58:27 [INFO] [main] config updated: general
+09:58:27 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+09:58:27 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+09:58:27 [INFO] [trace] memory | Memory search 1 chunks: Project Stack 
+09:58:28 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+09:58:38 [INFO] [trace] route | Analyzing routing & intent knowledge (10745ms)
+09:58:39 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+09:58:43 [INFO] [trace] synthesize | Response generated 12 tokens (4830ms)
+09:58:43 [INFO] [trace] output | Answer delivered streaming complete 
+09:58:58 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+09:58:58 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+09:58:58 [INFO] [trace] memory | Memory search 1 chunks: Project Stack 
+09:58:59 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+09:59:08 [INFO] [trace] synthesize | Response generated 55 tokens (10549ms)
+09:59:08 [INFO] [trace] output | Answer delivered streaming complete 
+09:59:56 [INFO] [fs] applied edit to C:\Users\USER\Desktop\Harness\hello.html
+10:00:47 [INFO] [trace] agent | Agent 'Note Tidier' started LM Studio:qwen3-1.7b | tools: memory_search 
+10:00:48 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:01:20 [INFO] [trace] agent | Final answer (turn 1) 191 chars (32323ms)
+10:02:08 [INFO] [trace] agent | Agent 'Note Tidier' started LM Studio:qwen3-1.7b | tools: memory_search 
+10:02:09 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:02:40 [INFO] [trace] tool | Tool: memory_search {"query": "tidy notes"} (31436ms)
+10:02:40 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+10:02:40 [INFO] [trace] tool | Tool result: memory_search no results 
+10:02:41 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:03:10 [INFO] [trace] agent | Final answer (turn 2) 193 chars (30789ms)
+10:03:26 [INFO] [trace] agent | Agent 'Note Tidier' started LM Studio:qwen3-1.7b | tools: memory_search 
+10:03:27 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:04:06 [INFO] [trace] tool | Tool: memory_search {"query": "tidy notes"} (40159ms)
+10:04:06 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+10:04:06 [INFO] [trace] tool | Tool result: memory_search no results 
+10:04:07 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:04:28 [INFO] [trace] agent | Final answer (turn 2) 56 chars (22129ms)
+10:04:40 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+10:04:40 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+10:04:40 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (1ms)
+10:04:41 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:05:02 [INFO] [trace] duet | Draft by LM Studio:qwen3-1.7b 169 chars (22406ms)
+10:05:11 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:05:23 [INFO] [trace] duet | Refined by LM Studio:liquid/lfm2-1.2b  (20724ms)
+10:05:23 [INFO] [trace] synthesize | Response generated ? tokens (43132ms)
+10:05:23 [INFO] [trace] output | Answer delivered streaming complete 
+10:05:32 [INFO] [main] config updated: general
+10:18:04 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+10:18:06 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:18:11 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:18:13 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+10:18:13 [INFO] [main] embedding probe ok via LM Studio
+10:18:30 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:19:07 [INFO] [trace] input | Input parsed 1 messages | model: text-embedding-all-minilm-l6-v2-embedding 
+10:19:08 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:19:09 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+10:19:09 [INFO] [memory] memory search 1 chunks | mode=hybrid | 1 results
+10:19:09 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (2409ms)
+10:19:09 [INFO] [trace] context | Workspace files attached 1 file(s), 121 chars (2ms)
+10:19:11 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 400 Bad Request"
+10:19:11 [INFO] [trace] output | Generation failed LM Studio HTTP 400: {
+    "error": {
+        "message": "No models loaded. Please load a model in the developer page or use the 'lms load' command.",
+        "type": "invalid_request_error",
+        " (1195ms)
+10:19:21 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:19:24 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:19:27 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:19:43 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:19:54 [INFO] [trace] input | Input parsed 3 messages | model: nvidia/nemotron-3-nano-4b 
+10:19:54 [INFO] [trace] context | Workspace files attached 1 file(s), 121 chars (1ms)
+10:19:54 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+10:20:20 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:21:24 [INFO] [trace] synthesize | Response generated 130 tokens (90100ms)
+10:21:24 [INFO] [trace] output | Answer delivered streaming complete 
+10:23:43 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:23:51 [INFO] [trace] input | Input parsed 5 messages | model: liquid/lfm2-1.2b 
+10:23:51 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+10:24:02 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:24:10 [INFO] [trace] synthesize | Response generated 23 tokens (18595ms)
+10:24:10 [INFO] [trace] output | Answer delivered streaming complete 
+10:24:57 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:24:58 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:25:13 [INFO] [trace] input | Input parsed 7 messages | model: text-embedding-nomic-embed-text-v1.5 
+10:25:13 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+10:25:14 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:25:20 [INFO] [trace] synthesize | Response generated 43 tokens (6752ms)
+10:25:20 [INFO] [trace] output | Answer delivered streaming complete 
+10:25:34 [INFO] [trace] input | Input parsed 9 messages | model: text-embedding-nomic-embed-text-v1.5 
+10:25:34 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+10:25:35 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:25:38 [INFO] [trace] synthesize | Response generated 21 tokens (4622ms)
+10:25:38 [INFO] [trace] output | Answer delivered streaming complete 
+10:25:53 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:26:27 [INFO] [trace] input | Input parsed 11 messages | model: smolvlm2-500m-video-instruct 
+10:26:27 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+10:26:36 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:26:41 [INFO] [trace] synthesize | Response generated 19 tokens (13503ms)
+10:26:41 [INFO] [trace] output | Answer delivered streaming complete 
+10:33:56 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+10:33:59 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:34:01 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+10:34:01 [INFO] [main] embedding probe failed (Client error '400 Bad Request' for url 'http://127.0.0.1:1234/v1/embeddings'
+For more information ch); using keyword
+10:34:02 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:34:11 [INFO] [main] config updated: active
+10:34:11 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+10:34:12 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+10:34:13 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+10:34:13 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+10:34:13 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (1888ms)
+10:34:13 [INFO] [trace] route | Agentic mode internet access disabled — staying local 
+10:34:24 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+10:34:37 [INFO] [trace] synthesize | Response generated 18 tokens (24122ms)
+10:34:37 [INFO] [trace] output | Answer delivered streaming complete 
+10:34:50 [INFO] [fs] applied edit to C:\Users\USER\Desktop\Harness\main.py
+12:27:37 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+12:27:40 [INFO] [main] embedding probe failed (All connection attempts failed); using keyword
+12:31:47 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:33:56 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+12:33:57 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:34:01 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:34:01 [INFO] [main] embedding probe ok via LM Studio (text-embedding-all-minilm-l6-v2-embedding)
+12:34:11 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:34:12 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:34:12 [INFO] [memory] indexed 'Publish Test Facts': 1 chunks, embeddings=yes
+12:34:33 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:34:34 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:34:34 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:34:35 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:34:39 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:34:39 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:35:00 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:35:01 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:35:01 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:35:18 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:35:19 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:35:19 [INFO] [memory] indexed 'Publish Test Facts': 1 chunks, embeddings=yes
+12:35:19 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:35:20 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:35:20 [INFO] [memory] indexed 'Project Stack': 1 chunks, embeddings=yes
+12:35:39 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:35:39 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:35:39 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:35:40 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:35:44 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:35:44 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:37:01 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+12:37:01 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:37:02 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:37:02 [INFO] [main] embedding probe ok via LM Studio (text-embedding-all-minilm-l6-v2-embedding)
+12:37:06 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:37:06 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:37:06 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:37:13 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+12:37:14 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:37:15 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:37:15 [INFO] [memory] memory search 2 chunks | mode=hybrid | 2 results
+12:37:15 [INFO] [trace] memory | Memory search 2 chunks: Publish Test Facts, Project Stack (1531ms)
+12:37:35 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:37:39 [INFO] [fs] applied edit to C:\Users\USER\Desktop\Harness\dom.py
+12:38:16 [INFO] [trace] synthesize | Response generated 108 tokens (61366ms)
+12:38:16 [INFO] [trace] output | Answer delivered streaming complete 
+12:38:26 [INFO] [main] uploaded 1 memory file(s)
+12:38:26 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:38:29 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:38:29 [INFO] [memory] indexed 'upload-test': 1 chunks, embeddings=yes
+12:38:30 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:38:31 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:38:31 [INFO] [memory] memory search 3 chunks | mode=hybrid | 3 results
+12:38:41 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:38:42 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:38:42 [INFO] [memory] indexed 'upload-test': 1 chunks, embeddings=yes
+12:38:46 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:38:47 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:38:47 [INFO] [memory] memory search 3 chunks | mode=hybrid | 3 results
+12:44:33 [INFO] [main] LordBlack Harness v0.8.4 ready | data: C:\Users\USER\OneDrive\Obsidian Notes\Personal Datas\Projects\Local Model Harness\lordblack-harness\data | key storage: dpapi
+12:44:34 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:44:35 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:44:35 [INFO] [main] embedding probe ok via LM Studio (text-embedding-all-minilm-l6-v2-embedding)
+12:44:37 [INFO] [main] config updated: general, cloud
+12:44:46 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+12:44:47 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:44:48 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 200 OK"
+12:44:48 [INFO] [memory] memory search 1 chunks | mode=hybrid | 1 results
+12:44:48 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (1722ms)
+12:44:57 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:45:17 [INFO] [trace] route | Analyzing routing & intent heavy_external_computation (29181ms)
+12:45:18 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:8899/api/v1/models "HTTP/1.0 200 OK"
+12:45:19 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:8899/api/v1/chat/completions "HTTP/1.0 200 OK"
+12:45:19 [INFO] [chat] delegated to openrouter:mock/free-model (89 chars back)
+12:45:19 [INFO] [trace] external | External API model openrouter:mock/free-model (1504ms)
+12:45:19 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:45:30 [INFO] [trace] extract | Response extraction kept 9 of 89 chars (11757ms)
+12:45:31 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:46:15 [INFO] [trace] synthesize | Final answer generated 100 tokens (44237ms)
+12:46:15 [INFO] [trace] output | Answer delivered streaming complete 
+12:47:05 [INFO] [main] config updated: general, cloud
+12:47:49 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+12:47:50 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:47:51 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+12:47:51 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+12:47:51 [INFO] [trace] memory | Memory search no strong matches (1560ms)
+12:47:52 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:48:07 [INFO] [trace] duet | Draft by LM Studio:qwen3-1.7b 182 chars (15858ms)
+12:48:17 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:48:31 [INFO] [trace] duet | Refined by LM Studio:liquid/lfm2-1.2b  (24008ms)
+12:48:31 [INFO] [trace] synthesize | Response generated ? tokens (39868ms)
+12:48:31 [INFO] [trace] output | Answer delivered streaming complete 
+12:48:42 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+12:48:44 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:48:45 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+12:48:45 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+12:48:45 [INFO] [trace] memory | Memory search no strong matches (2603ms)
+12:48:55 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:49:18 [INFO] [trace] duet | Draft by LM Studio:qwen3-1.7b 60 chars (33545ms)
+12:49:19 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:51:27 [INFO] [trace] duet | Refined by LM Studio:nonexistent-model-xyz  (128519ms)
+12:51:27 [INFO] [trace] synthesize | Response generated ? tokens (162068ms)
+12:51:27 [INFO] [trace] output | Answer delivered streaming complete 
+12:51:43 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+12:51:44 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:51:44 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+12:51:44 [INFO] [memory] memory search 1 chunks | mode=bm25 | 0 results
+12:51:44 [INFO] [trace] memory | Memory search no strong matches (1536ms)
+12:51:45 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:51:59 [INFO] [trace] duet | Draft by LM Studio:qwen3-1.7b 56 chars (14517ms)
+12:52:00 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:53:33 [INFO] [trace] duet | Refined by LM Studio:nonexistent-model-xyz  (93903ms)
+12:53:33 [INFO] [trace] synthesize | Response generated ? tokens (108423ms)
+12:53:33 [INFO] [trace] output | Answer delivered streaming complete 
+12:55:06 [INFO] [fs] applied edit to C:\Users\USER\Desktop\Harness\main.py
+12:55:06 [INFO] [fs] applied edit to C:\Users\USER\Desktop\Harness\main.py
+12:55:20 [INFO] [agent] saved agent 'note-tidier'
+12:55:21 [INFO] [trace] agent | Agent 'Note Tidier' started LM Studio:qwen3-1.7b | tools: memory_search 
+12:55:22 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:56:04 [INFO] [trace] agent | Final answer (turn 1) 48 chars (43290ms)
+12:56:04 [INFO] [agent] saved agent 'note-tidier'
+12:56:04 [INFO] [trace] agent | Agent 'Note Tidier' started LM Studio:qwen3-1.7b | tools: none 
+12:56:05 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+12:56:53 [INFO] [trace] agent | Final answer (turn 1) 79 chars (48809ms)
+12:56:53 [INFO] [agent] saved agent 'note-tidier'
+12:57:38 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+12:57:39 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:03:12 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:03:13 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:03:17 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:04:29 [INFO] [trace] input | Input parsed 1 messages | model: qwen3-1.7b 
+13:04:30 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:04:31 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/embeddings "HTTP/1.1 400 Bad Request"
+13:04:31 [INFO] [memory] memory search 1 chunks | mode=bm25 | 1 results
+13:04:31 [INFO] [trace] memory | Memory search 1 chunks: Project Stack (1987ms)
+13:04:32 [INFO] [httpx] HTTP Request: POST http://127.0.0.1:1234/v1/chat/completions "HTTP/1.1 200 OK"
+13:04:50 [INFO] [trace] synthesize | Response generated 15 tokens (19057ms)
+13:04:50 [INFO] [trace] output | Answer delivered streaming complete 
+13:08:29 [INFO] [main] config updated: cloud
+13:08:30 [INFO] [main] config updated: cloud
+13:08:31 [INFO] [main] config updated: cloud
+13:08:35 [INFO] [main] config updated: cloud
+13:08:41 [INFO] [main] config updated: cloud
+13:08:42 [INFO] [main] config updated: cloud
+13:09:01 [INFO] [main] config updated: cloud
+13:09:03 [INFO] [main] config updated: cloud
+13:09:13 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:20 [INFO] [main] config updated: general
+13:09:21 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:23 [INFO] [main] config updated: general
+13:09:24 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:28 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:28 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:31 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:31 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:38 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:39 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:40 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
+13:09:40 [INFO] [httpx] HTTP Request: GET http://127.0.0.1:1234/v1/models "HTTP/1.1 200 OK"
